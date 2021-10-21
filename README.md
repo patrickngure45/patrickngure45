@@ -13,7 +13,7 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-### I am Darshan Jain
+### I am Patrick Ngure
 - A Front-End Developer & Open Source enthusiast.
 - A self-taught software developer. 
 - Currently working on some of my cool side projects based on Web Development.
