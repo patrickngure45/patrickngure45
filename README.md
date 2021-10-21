@@ -16,7 +16,14 @@
 ### I am Patrick Ngure
 - A Front-End Developer & Open Source enthusiast.
 - A self-taught software developer. 
-- Currently working on some of my cool side projects based on Web Development.
+- Currently working on some of my cool side projects based on Web Development and learning node.js and express
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JavaScript | React | Gatsby | Next.js
+- 🌐 &nbsp; HTML | CSS | Styled-components | Tailwind Css
+- 🛢 &nbsp; MongoDB | Contentfull | Stripe
+- 🔧 &nbsp; Git | Postman API | Graphql
 
 ⭐️ From [Patrick Ngure](https://github.com/patrickngure45)
