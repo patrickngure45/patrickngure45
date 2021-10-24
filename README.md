@@ -13,12 +13,13 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
+<br/>
 ### I am Patrick Ngure
 - A Front-End Developer & Open Source enthusiast.
 - A self-taught software developer. 
 - Currently working on some of my cool side projects based on Web Development and learning node.js and express
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-- 
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | React | Gatsby | Next.js
