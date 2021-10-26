@@ -22,7 +22,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | React | Gatsby | Next.js
-- 🌐 &nbsp; HTML | CSS | Styled-components | Tailwind Css
+- 🌐 &nbsp; HTML | CSS | Styled-components | Bootstrap 5
 - 🛢 &nbsp; MongoDB | Contentfull | Stripe
 - 🔧 &nbsp; Git | Postman API | Graphql
 
